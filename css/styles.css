@@ -8,3 +8,26 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-image: url(../img/pattern-legumes.jpg);
+  border-top: 8px solid #7db96f;
+}
+
+.title-box {
+  background-color: #ffffffe5;
+  color:#7db96f;
+  font-family: 'Quattrocento', cursive;
+  font-size: 20px;
+  text-align: center;
+  margin: 30px;
+  padding: 35px 55px;
+}
+
+h1 {
+  margin: 0 0 15px;
+}
+
+p {
+  margin: 0;
+}
