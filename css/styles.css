@@ -165,3 +165,8 @@ p {
 .section-contact {
   background-color: #fff;
 }
+
+.section-contact h2 {
+  color: #7db96f;
+  padding: 40px 0 35px;
+}
