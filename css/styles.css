@@ -9,6 +9,10 @@ img {
   max-width: 100%;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 header {
   background-image: url(../img/pattern-legumes.jpg);
   border-top: 8px solid #7db96f;
