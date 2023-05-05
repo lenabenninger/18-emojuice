@@ -162,11 +162,25 @@ p {
   margin: 0 30px;
 }
 
-.section-contact {
+.section-contact,
+footer {
   background-color: #fff;
 }
 
 .section-contact h2 {
   color: #7db96f;
-  padding: 40px 0 35px;
+  padding: 40px 0 0;
+  margin-bottom: 30px;
+}
+
+footer p {
+  color: #7db96f;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  padding: 40px 50px;
+}
+
+.fruits-footer {
+  padding-bottom: 40px;
 }
